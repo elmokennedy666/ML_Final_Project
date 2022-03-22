@@ -1,4 +1,4 @@
-# ML_Final_Project
+# ML Final Project
 
 This repository contains code for Skoltech Machine Learning 2022 course "Cocktails recipes generator"
 
