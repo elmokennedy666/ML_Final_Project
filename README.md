@@ -1,6 +1,6 @@
 # ML Final Project
 
-This repository contains code for Skoltech Machine Learning 2022 course "Cocktails recipes generator"
+This repository contains code for final project on Skoltech Machine Learning 2022 course "Cocktails recipes generator"
 
 
 Approach with RNN to predict name by first n symbols: https://github.com/elmokennedy666/ML_Final_Project/blob/main/NameFromStartChar.ipynb
